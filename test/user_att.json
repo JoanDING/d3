@@ -1,0 +1,76 @@
+{
+   "name": "user attibutes",
+   "children": [
+    {
+     "name": "location",
+     "children": [
+      {"name": "Moscow", "value": 1626},
+      {"name": "Milan", "value": 1430},
+      {"name": "Rio de Janeiro", "value": 1426},
+      {"name": "Los Angeles", "value": 1277},
+      {"name": "London", "value": 1190},
+      {"name": "New York", "value": 1147},
+      {"name": "Paris", "value": 1123},
+      {"name": "Sydney", "value": 1091},
+      {"name": "Cape Town", "value": 914},
+      {"name": "Tokyo", "value": 892},
+      {"name": "Singapore", "value": 878},
+      {"name": "Hong Kong", "value": 763},
+      {"name": "Seoul", "value": 745},
+      {"name": "Shanghai", "value": 674}
+     ]
+    },
+    {
+     "name": "age",
+     "children": [
+      {"name": "0-18", "value": 3534},
+      {"name": "18-25", "value": 5731},
+      {"name": "25-40", "value": 7840},
+      {"name": "40-", "value": 5914}
+     ]
+    },
+    {
+     "name": "gender",
+     "children": [
+      {"name": "women", "value": 7074},
+      {"name": "men", "value": 7074}
+     ]
+    },
+    {
+     "name": "interest",
+     "children": [
+      {"name": "photography", "value": 7074},
+      {"name": "fashion", "value": 7074},
+      {"name": "travel", "value": 7074},
+      {"name": "exercise", "value": 7074},
+      {"name": "outdoor", "value": 7074},
+      {"name": "food", "value": 7074},
+      {"name": "music", "value": 7074},
+      {"name": "makeup", "value": 7074},
+{"name": "art", "value": 7074},
+{"name": "film", "value": 7074}
+     ]
+    },
+{
+     "name": "occupation",
+     "children": [
+      {"name": "model", "value": 7074},
+      {"name": "whitecollar", "value": 7074},
+      {"name": "student", "value": 7074},
+      {"name": "fashionblogger", "value": 7074},
+      {"name": "musician", "value": 7074},
+      {"name": "dancer", "value": 7074},
+      {"name": "artist", "value": 7074},
+      {"name": "actor", "value": 7074}
+     ]
+    },
+    {
+     "name": "activeness",
+     "children": [
+      {"name": "low", "value": 7074},
+      {"name": "medium", "value": 7074},
+      {"name": "high", "value": 7074}
+     ]
+    }
+     ]
+    }
