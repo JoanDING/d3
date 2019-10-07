@@ -82,7 +82,14 @@
       {"name": "weekender bag", "value": 3938},
       {"name": "saddle bag", "value": 3812},
       {"name": "drawstring", "value": 6714},
-      {"name": "hobo", "value": 743}]}]}
+      {"name": "hobo", "value": 743}]}]},
+
+{"name": "clutch", 
+"children": [
+      {"name": "clutch purse", "value": 3938},
+      {"name": "pouch", "value": 3812},
+      {"name": "card holder", "value": 6714},
+      {"name": "wallet", "value": 743}]}
 
 ]
 }
