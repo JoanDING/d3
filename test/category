@@ -1,0 +1,88 @@
+{
+"name": "category",
+"children":[
+{"name": "apparel",
+"children": [
+{"name": "full_body_garment", 
+"children": [
+      {"name": "dress", "value": 3938},
+      {"name": "jumpsuit", "value": 3812},
+      {"name": "suit", "value": 6714},
+      {"name": "playsuit", "value": 743}]},
+
+{"name": "upper_body_garment", 
+"children": [
+      {"name": "t-shirt", "value": 3938},
+      {"name": "top", "value": 3812},
+      {"name": "sweater", "value": 6714},
+      {"name": "tank_top", "value": 743},
+      {"name": "shirt", "value": 3938},
+      {"name": "blouse", "value": 3812},
+      {"name": "sweatershit_hoodies", "value": 6714},
+      {"name": "camisole", "value": 6714},
+      {"name": "polo_shirt", "value": 743}]},
+
+{"name": "lower_body_garment", 
+"children": [
+      {"name": "jeans", "value": 3938},
+      {"name": "skirt", "value": 3812},
+      {"name": "pants", "value": 6714},
+      {"name": "athletic pants", "value": 6714},
+      {"name": "leggings", "value": 6714},
+      {"name": "shorts", "value": 743}]},
+
+
+{"name": "outerwear", 
+"children": [
+      {"name": "vest waistcoat", "value": 3938},
+      {"name": "jacket", "value": 3812},
+      {"name": "cardigan", "value": 3812},
+      {"name": "blazar", "value": 6714},
+      {"name": "coat", "value": 743}]} ]},
+
+{"name": "footwear",
+"children":[{"name": "shoes", 
+"children": [
+      {"name": "flat shoes", "value": 3938},
+      {"name": "pumps", "value": 3812},
+      {"name": "wedge shoes", "value": 6714},
+      {"name": "flatform shoes", "value": 743}]},
+
+{"name": "boots", 
+"children": [
+      {"name": "ankle boots", "value": 3938},
+      {"name": "over the knee boots", "value": 3812},
+      {"name": "knee high boots", "value": 6714},
+      {"name": "mid calf boots", "value": 743}]},
+
+{"name": "sneakers", 
+"children": [
+      {"name": "lifestyle", "value": 3938},
+      {"name": "performance", "value": 3812}]},
+
+
+{"name": "sandals", 
+"children": [
+      {"name": "flat sandals", "value": 3938},
+      {"name": "heeled sandals", "value": 3812},
+      {"name": "wedge sandals", "value": 3812},
+      {"name": "flatform sandals", "value": 6714}]}]},
+
+{"name": "bags",
+"children":[{"name": "shoulder bags", 
+"children": [
+      {"name": "sling bag", "value": 3938},
+      {"name": "top handle bag", "value": 3812},
+      {"name": "crossbody bag", "value": 6714},
+      {"name": "briefcase", "value": 743},
+      {"name": "shopper bag", "value": 3938},
+      {"name": "backpack", "value": 3812},
+      {"name": "messenger bag", "value": 6714},
+      {"name": "bucket bag", "value": 743},
+      {"name": "weekender bag", "value": 3938},
+      {"name": "saddle bag", "value": 3812},
+      {"name": "drawstring", "value": 6714},
+      {"name": "hobo", "value": 743}]}]}
+
+]
+}
